@@ -18,7 +18,7 @@ public class Question04_1 {
 		ageGroup[2] = 24;
 		ageGroup[3] = 19;
 		ageGroup[4] = 20;
-		System.out.println("3番目の人の年齢は" + ageGroup[3] + "歳です。");
+		System.out.println("3番目の人の年齢は" + ageGroup[2] + "歳です。");
 
 	}
 
