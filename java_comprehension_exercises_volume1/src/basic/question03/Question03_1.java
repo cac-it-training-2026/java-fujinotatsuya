@@ -11,7 +11,7 @@ public class Question03_1 {
 		// TODO:ここに実装
 		int price = 30;
 		int totalBudget = 300;
-		int quantity = (totalBudget - price);
+		int quantity = (totalBudget / price);
 		System.out.println("商品の購入数は" + quantity + "個です。");
 
 	}
